@@ -1,2 +1,2 @@
-# machine-learning-projects
-A collection of machine learning school projects using Python, Sklearn, Pandas and other libraries.
+# ml-ai
+A collection of Machine Learning (ML) and Artificial Intelligence (AI) projects using Python, Sklearn, Pandas and other tools.
